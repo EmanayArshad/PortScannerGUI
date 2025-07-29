@@ -76,6 +76,7 @@ A GUI-based network port scanner built using **Python**, **Tkinter**, and **Nmap
 2. Run the script:
  ```bash
  python PortScanner.py
+ ```
 
 3.The GUI will launch. Enter inputs and click Start Scan.
 
